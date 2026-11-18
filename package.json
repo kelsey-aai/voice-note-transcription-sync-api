@@ -1,0 +1,13 @@
+{
+  "name": "voice-note-transcription-sync-api",
+  "version": "1.0.0",
+  "description": "Voice note transcription with the AssemblyAI Sync API",
+  "scripts": {
+    "check": "node --check quickstart.mjs && node --check multilingual.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "assemblyai": "^4.42.1"
+  },
+  "private": true
+}
